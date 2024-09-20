@@ -1,0 +1,7 @@
+# Commands to check if docker is installed successfully or not:- 
+  
+   # this command will fetch the version of the docker installed:-
+     docker --version
+  
+   # this command will check if the docker services are up and running:-
+     systemctl status docker 

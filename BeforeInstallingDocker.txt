@@ -1,7 +1,0 @@
-# Before running that bash script file which is "docker.sh" make sure to run below commands to install Docker properly on the Ubuntu Operating system run these commands:-
-
-    # Command to change the permissions from read only to write:-
-      sudo chmod 775 docker.sh
-
-    # After changing the permissions run below command to execute the bash script which is "docker.sh" file, this will install docker in you Ubuntu Os:-
-      ./docker.sh
